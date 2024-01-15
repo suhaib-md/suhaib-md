@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm MD Suhaib V</h1>
 <h3 align="center">Passionate Full Stack Developer & Engineer with a knack for crafting seamless digital experiences. Equipped with a versatile skillset encompassing front-end finesse, back-end prowess, and a flair for problem-solving.</h3>
-
+<hr>
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m currently working on **my portfolio**
 
 - 📫 How to reach me **mdsuhaibvadakathi@gmail.com**
-
+<hr>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vmdsuhaib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedsuhaibv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Suhaibvms) 
 
@@ -26,10 +26,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=suhaib-md&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
 [![](https://visitcount.itsvg.in/api?id=suhaib-md&icon=5&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
