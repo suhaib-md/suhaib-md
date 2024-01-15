@@ -6,7 +6,7 @@
 - 👯 I’m currently working on **my portfolio**
 
 - 📫 How to reach me **mdsuhaibvadakathi@gmail.com**
-<hr>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vmdsuhaib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedsuhaibv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Suhaibvms) 
 
