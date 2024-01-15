@@ -1,22 +1,11 @@
 <h1 align="center">Hi 👋, I'm MD Suhaib V</h1>
 <h3 align="center">Passionate Full Stack Developer & Engineer with a knack for crafting seamless digital experiences. Equipped with a versatile skillset encompassing front-end finesse, back-end prowess, and a flair for problem-solving.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaib-md&label=Profile%20views&color=0e75b6&style=flat" alt="suhaib-md" /> </p>
-
-<p align="left"> <a href="https://twitter.com/suhaibvms" target="blank"><img src="https://img.shields.io/twitter/follow/suhaibvms?logo=twitter&style=for-the-badge" alt="suhaibvms" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m currently working on **my portfolio**
 
 - 📫 How to reach me **mdsuhaibvadakathi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/suhaibvms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suhaibvms" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammed suhaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed suhaib" height="30" width="40" /></a>
-<a href="https://instagram.com/vmdsuhaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vmdsuhaib" height="30" width="40" /></a>
-</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vmdsuhaib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedsuhaibv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Suhaibvms) 
