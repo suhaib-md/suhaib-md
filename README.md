@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD Suhaib V</h1>
+<h1 align="center">Hi 👋, I'm Muhammed Suhaib</h1>
 <h3 align="center">Passionate Full Stack Developer & Engineer with a knack for crafting seamless digital experiences. Equipped with a versatile skillset encompassing front-end finesse, back-end prowess, and a flair for problem-solving.</h3>
 <hr>
 - 🌱 I’m currently learning *React*
