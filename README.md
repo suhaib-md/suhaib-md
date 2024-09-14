@@ -3,9 +3,9 @@
 <hr>
 - 🌱 I’m currently learning *React*
 
-- 👯 I’m currently working on *my portfolio*
+- 👯 I’m currently working on *IllustraGen, an image generation app*
 
-- 📫 How to reach me *mdsuhaibvadakathi@gmail.com* or checkout my portfolio [suhaib.vercel.app](https://suhaib.vercel.app/)
+- 📫 How to reach me *mdsuhaib.25it@licet.ac.in* or checkout my portfolio [suhaib.vercel.app](https://suhaib.vercel.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vmdsuhaib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedsuhaibv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Suhaibvms) 
