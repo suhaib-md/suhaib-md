@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammed Suhaib</h1>
 <h3 align="center">Passionate Full Stack Developer & Engineer with a knack for crafting seamless digital experiences. Equipped with a versatile skillset encompassing front-end finesse, back-end prowess, and a flair for problem-solving.</h3>
 <hr>
-- 🌱 I’m currently learning *React*
+- 🌱 I’m currently learning *Mobile App Development*
 
-- 👯 I’m currently working on *IllustraGen, an image generation app*
+- 👯 I’m currently working on *Expendium, a mobile app that detects and parses transaction sms messages to automatically log your transactions*
 
-- 📫 How to reach me *mdsuhaib.25it@licet.ac.in* or checkout my portfolio [suhaib.vercel.app](https://suhaib.vercel.app/)
+- 📫 How to reach me *suhaib.muhammed2002@gmail.com* or checkout my portfolio [suhaib.vercel.app](https://suhaib.vercel.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vmdsuhaib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedsuhaibv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Suhaibvms) 
