@@ -34,7 +34,7 @@ Currently engaged on an **American Express Jira Data Center → Cloud migration*
 ### 🏦 [GSF Accounts Management](https://github.com/suhaib-md/gsfpreview)
 > Financial management platform for **GSF Trust** — managing Zakat, Hadiya, General Funds, Subscriptions and Interest funds with strict religious fund-separation rules.
 
-`Next.js 14` `TypeScript` `Supabase` `Tailwind CSS` `shadcn/ui` `Recharts` `Cloudflare` · Hosted on Cloudflare
+`Next.js 14` `TypeScript` `Tailwind CSS` `shadcn/ui` `Recharts` `Cloudflare` · Hosted on Cloudflare
 
 ---
 
