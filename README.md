@@ -1,28 +1,13 @@
 <div align="center">
 
-<!-- Pure SVG header — no external image service needed -->
-<svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f2027"/>
-      <stop offset="50%" style="stop-color:#203a43"/>
-      <stop offset="100%" style="stop-color:#2c5364"/>
-    </linearGradient>
-    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2c5364;stop-opacity:0.8"/>
-      <stop offset="100%" style="stop-color:#0f2027;stop-opacity:0.8"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="160" fill="url(#bg)" rx="10"/>
-  <path d="M0,120 C150,80 300,140 450,100 C600,60 750,120 900,90 L900,160 L0,160 Z" fill="url(#wave)" opacity="0.4"/>
-  <text x="450" y="72" font-family="'Segoe UI', Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff" text-anchor="middle">Muhammed Suhaib</text>
-  <text x="450" y="105" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#94a3b8" text-anchor="middle">Associate Software Engineer · Full Stack Developer · Cloud &amp; DevOps</text>
-  <text x="450" y="130" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="middle">Chennai, India · Cprime, Inc</text>
-</svg>
+# Muhammed Suhaib
+### Associate Software Engineer · Full Stack Developer · Cloud & DevOps
+
+**Chennai, India &nbsp;·&nbsp; Cprime, Inc (Goldman Sachs | Everstone)**
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-suhaib.vercel.app-0f2027?style=for-the-badge)](https://suhaib.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-suhaib.vercel.app-1a1a2e?style=for-the-badge)](https://suhaib.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammedsuhaibv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedsuhaibv)
 [![Email](https://img.shields.io/badge/Email-suhaib.muhammed2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhaib.muhammed2002@gmail.com)
 [![X](https://img.shields.io/badge/X-@Suhaibvms-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Suhaibvms)
@@ -102,13 +87,6 @@ Currently engaged on an **American Express Jira Data Center → Cloud migration*
 
 ---
 
-### 🏥 [DocFinder](https://github.com/suhaib-md/Docfinder)
-> Doctor search and discovery platform — find doctors by area and specialisation.
-
-`HTML` `CSS` `JavaScript`
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -159,11 +137,9 @@ Currently engaged on an **American Express Jira Data Center → Cloud migration*
 
 <div align="center">
 
-![Suhaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhaib-md&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=suhaib-md&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=suhaib-md&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaib-md&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaib-md&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
