@@ -1,10 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Muhammed%20Suhaib&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Associate%20Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Cloud%20%26%20DevOps&descSize=14&descAlignY=58&descColor=94a3b8" />
+<!-- Pure SVG header — no external image service needed -->
+<svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f2027"/>
+      <stop offset="50%" style="stop-color:#203a43"/>
+      <stop offset="100%" style="stop-color:#2c5364"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2c5364;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#0f2027;stop-opacity:0.8"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="160" fill="url(#bg)" rx="10"/>
+  <path d="M0,120 C150,80 300,140 450,100 C600,60 750,120 900,90 L900,160 L0,160 Z" fill="url(#wave)" opacity="0.4"/>
+  <text x="450" y="72" font-family="'Segoe UI', Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff" text-anchor="middle">Muhammed Suhaib</text>
+  <text x="450" y="105" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#94a3b8" text-anchor="middle">Associate Software Engineer · Full Stack Developer · Cloud &amp; DevOps</text>
+  <text x="450" y="130" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="middle">Chennai, India · Cprime, Inc</text>
+</svg>
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-suhaib.vercel.app-0f2027?style=for-the-badge)](https://suhaib.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammedsuhaibv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedsuhaibv)
-[![Email](https://img.shields.io/badge/Email-suhaib.muhammed2002@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhaib.muhammed2002@gmail.com)
+[![Email](https://img.shields.io/badge/Email-suhaib.muhammed2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhaib.muhammed2002@gmail.com)
 [![X](https://img.shields.io/badge/X-@Suhaibvms-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Suhaibvms)
 
 </div>
@@ -27,21 +47,21 @@ Currently engaged on an **American Express Jira Data Center → Cloud migration*
 ## 🚀 Featured Projects
 
 ### 🏦 [GSF Accounts Management](https://github.com/suhaib-md/gsfpreview)
-> Financial management platform for **Ghufran Social Foundation** — a charitable trust managing Zakat, Hadiya, General, and Interest funds with strict religious fund-separation rules.
+> Financial management platform for **Ghufran Social Foundation** — managing Zakat, Hadiya, General, and Interest funds with strict religious fund-separation rules.
 
 `Next.js 14` `TypeScript` `Supabase` `Tailwind CSS` `shadcn/ui` `Recharts` · Hosted on Vercel
 
 ---
 
 ### ✈️ [Trace — Travel Diary](https://github.com/suhaib-md/trace)
-> An offline-first, single-user mobile app for documenting trips — journal entries, photos, location tracking, budgeting, and travel stats. **Phase 1 complete.**
+> Offline-first mobile app for documenting trips — journal entries, photos, location tracking, budgeting, and travel stats. **Phase 1 complete.**
 
 `React Native` `Expo SDK 54` `WatermelonDB` `Zustand` `Supabase` `TypeScript`
 
 ---
 
 ### 👜 [I Style Leathers](https://github.com/suhaib-md/istyle)
-> Brand + e-commerce website for a handcrafted leather goods manufacturer in Tamil Nadu. WhatsApp-based ordering flow, SSG for SEO, product catalog.
+> Brand + e-commerce website for a handcrafted leather goods manufacturer in Tamil Nadu. WhatsApp-based ordering, SSG for SEO, full product catalog.
 
 `Next.js 14` `TypeScript` `Tailwind CSS` · Hosted on Vercel
 
@@ -62,7 +82,7 @@ Currently engaged on an **American Express Jira Data Center → Cloud migration*
 ---
 
 ### 🧪 [Nestle MCP POC](https://github.com/suhaib-md/nestle_mcp_poc)
-> Proof-of-concept: AWS Model Context Protocol (MCP) server integration for AI tooling, deployed via Jenkins on multi-region EKS with SonarQube quality gates.
+> AWS Model Context Protocol (MCP) server integration for AI tooling, deployed via Jenkins on multi-region EKS with SonarQube quality gates.
 
 `AWS MCP` `EKS` `Jenkins` `SonarQube` `CloudFormation`
 
@@ -141,7 +161,7 @@ Currently engaged on an **American Express Jira Data Center → Cloud migration*
 
 ![Suhaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhaib-md&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suhaib-md&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=suhaib-md&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaib-md&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
@@ -150,9 +170,6 @@ Currently engaged on an **American Express Jira Data Center → Cloud migration*
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
-
-*Building things that work, for people who matter.*
-
+<br/>
+<em>Building things that work, for people who matter.</em>
 </div>
